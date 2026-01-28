@@ -1,0 +1,110 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science.",
+  "sections": [
+    "Contents",
+    "Early life and education",
+    "Family",
+    "School",
+    "Christopher Morcom",
+    "University and work on computability",
+    "Career and research",
+    "Cryptanalysis",
+    "Bombe",
+    "Hut 8 and the naval Enigma",
+    "Turingery",
+    "Delilah",
+    "Early computers and the Turing test",
+    "Pattern formation and mathematical biology",
+    "Personal life",
+    "Treasure",
+    "Engagement",
+    "Chess",
+    "Homosexuality and indecency conviction",
+    "Death",
+    "Government apology and pardon",
+    "Further reading",
+    "Articles",
+    "Books",
+    "See also",
+    "Works cited",
+    "Notes",
+    "References",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "Where was Alan Turing born?",
+      "options": [
+        "London",
+        "Maida Vale",
+        "Hastings",
+        "Guildford"
+      ],
+      "answer": "Maida Vale",
+      "difficulty": "",
+      "explanation": ""
+    },
+    {
+      "question": "What was the name of the machine that Turing devised to speed up the breaking of German ciphers?",
+      "options": [
+        "Bombe",
+        "Enigma machine",
+        "Turing machine",
+        "Automatic Computing Engine"
+      ],
+      "answer": "Bombe",
+      "difficulty": "",
+      "explanation": ""
+    },
+    {
+      "question": "What was the name of Turing's first love?",
+      "options": [
+        "Christopher Collan Morcom",
+        "John Ferrier Turing",
+        "Dermot Turing",
+        "Albert Einstein"
+      ],
+      "answer": "Christopher Collan Morcom",
+      "difficulty": "",
+      "explanation": ""
+    },
+    {
+      "question": "What was the name of the theorem that Turing proved in his paper?",
+      "options": [
+        "Central limit theorem",
+        "Gaussian error function",
+        "Equivalence of left and right almost periodicity",
+        "Incompleteness theorems"
+      ],
+      "answer": "Central limit theorem",
+      "difficulty": "",
+      "explanation": ""
+    }
+  ],
+  "related_topics": [
+    "Theoretical computer science",
+    "Turing machine",
+    "Computer science",
+    "Mathematics",
+    "Codebreaking",
+    "Cryptanalysis",
+    "World War II",
+    "Bletchley Park",
+    "Government Code and Cypher School",
+    "National Physical Laboratory",
+    "Computing Machine Laboratory",
+    "University of Manchester",
+    "Indian Civil Service",
+    "British Raj government",
+    "Madras Railways",
+    "King's College, Cambridge",
+    "Princeton University",
+    "Sherborne School",
+    "Trinity",
+    "London Mathematical Society",
+    "Journal of the London Mathematical Society"
+  ]
+}

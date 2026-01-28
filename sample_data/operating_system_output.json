@@ -1,0 +1,139 @@
+{
+  "id": 5,
+  "url": "https://en.wikipedia.org/wiki/Operating_system",
+  "title": "Operating system",
+  "summary": "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.",
+  "sections": [
+    "Contents",
+    "Definition and purpose",
+    "Types of operating systems",
+    "Multicomputer operating systems",
+    "Distributed systems",
+    "Embedded",
+    "Real-time",
+    "Hypervisor",
+    "Library",
+    "History",
+    "Microcomputers",
+    "Components",
+    "Kernel",
+    "Concurrency",
+    "File system",
+    "Networking",
+    "Security",
+    "User interface",
+    "Operating system development as a hobby",
+    "Diversity of operating systems and portability",
+    "Popular operating systems",
+    "Linux",
+    "Microsoft Windows",
+    "See also",
+    "Notes",
+    "References",
+    "Further reading",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "What is the primary function of an operating system?",
+      "options": [
+        "A. To manage computer hardware resources",
+        "B. To provide common services for computer programs",
+        "C. To allocate resources between different applications",
+        "D. To isolate applications from each other"
+      ],
+      "answer": "A. To manage computer hardware resources",
+      "difficulty": "easy",
+      "explanation": "An operating system manages computer hardware resources, such as input/output and memory allocation."
+    },
+    {
+      "question": "What type of operating system is designed to be used in embedded computer systems?",
+      "options": [
+        "A. Real-time operating system",
+        "B. Distributed system",
+        "C. Embedded operating system",
+        "D. Multicomputer operating system"
+      ],
+      "answer": "C. Embedded operating system",
+      "difficulty": "medium",
+      "explanation": "Embedded operating systems are designed to be used in embedded computer systems, such as household appliances."
+    },
+    {
+      "question": "What is a hypervisor?",
+      "options": [
+        "A. A type of operating system that runs a virtual machine",
+        "B. A type of library operating system",
+        "C. A type of distributed system",
+        "D. A type of multicomputer operating system"
+      ],
+      "answer": "A. A type of operating system that runs a virtual machine",
+      "difficulty": "medium",
+      "explanation": "A hypervisor is an operating system that runs a virtual machine, which emulates hardware."
+    },
+    {
+      "question": "What is the name of the first popular operating system to support multiprogramming?",
+      "options": [
+        "A. OS/360",
+        "B. MULTICS",
+        "C. UNIX",
+        "D. MS-DOS"
+      ],
+      "answer": "A. OS/360",
+      "difficulty": "hard",
+      "explanation": "OS/360 was the first popular operating system to support multiprogramming, allowing the CPU to be put to use on one job while another was waiting on input/output."
+    },
+    {
+      "question": "What is the name of the operating system that originated as a development of MULTICS for a single user?",
+      "options": [
+        "A. UNIX",
+        "B. MS-DOS",
+        "C. OS/360",
+        "D. MULTICS"
+      ],
+      "answer": "A. UNIX",
+      "difficulty": "hard",
+      "explanation": "UNIX originated as a development of MULTICS for a single user and became the basis of other operating systems."
+    },
+    {
+      "question": "What is the name of the standard for operating system application programming interfaces (APIs) released by the IEEE?",
+      "options": [
+        "A. POSIX",
+        "B. UNIX",
+        "C. OS/360",
+        "D. MULTICS"
+      ],
+      "answer": "A. POSIX",
+      "difficulty": "hard",
+      "explanation": "The POSIX standard is a widely-supported standard for operating system application programming interfaces (APIs)."
+    },
+    {
+      "question": "What is the name of the popular operating system for microcomputers in the 1980s?",
+      "options": [
+        "A. CP/M",
+        "B. MS-DOS",
+        "C. OS/360",
+        "D. UNIX"
+      ],
+      "answer": "A. CP/M",
+      "difficulty": "medium",
+      "explanation": "CP/M was the most popular operating system for microcomputers in the 1980s."
+    },
+    {
+      "question": "What is the name of the operating system that was developed in 1987 for educational uses and inspired the commercially available Linux?",
+      "options": [
+        "A. MINIX",
+        "B. UNIX",
+        "C. OS/360",
+        "D. MULTICS"
+      ],
+      "answer": "A. MINIX",
+      "difficulty": "hard",
+      "explanation": "MINIX was a stripped-down version of UNIX developed for educational uses and inspired the commercially available Linux."
+    }
+  ],
+  "related_topics": [
+    "operating system types",
+    "operating system history",
+    "operating system functions"
+  ]
+}
